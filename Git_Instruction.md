@@ -18,3 +18,4 @@ git version
 Git config –gobal user.name “логин_пользователя”
 Git config –gobal user.email “почта_пользователя”
 ```
+## 4. Инициализация репозитория
